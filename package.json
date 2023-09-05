@@ -10,18 +10,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@cubejs-client/react": "^0.29.48",
-    "antd": "^4.19.5",
-    "bizcharts": "^4.1.15",
-    "next": "12.1.5",
-    "react": "18.0.0",
+    "@cubejs-client/react": "^0.33.47",
+    "antd": "^5.8.6",
+    "bizcharts": "^4.1.22",
+    "next": "13.4.19",
+    "react": "18.2.0",
     "react-date-range": "^1.4.0",
-    "react-dom": "18.0.0",
-    "react-flatpickr": "^3.10.11",
+    "react-dom": "18.2.0",
+    "react-flatpickr": "^3.10.13",
     "undefined": "^0.1.0"
   },
   "devDependencies": {
-    "eslint": "8.13.0",
-    "eslint-config-next": "12.1.5"
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19"
   }
 }
