@@ -1,6 +1,6 @@
 # react-next-cube-bizcharts
 
-# 🚀 YYYYYYYYYY 🚀
+# 🚀 Building a Next.js Dashboard with Dynamic Charts and SSR 🚀
 
 https://github.com/coding-to-music/react-next-cube-bizcharts
 
