@@ -1,9 +1,10 @@
-import Router from 'next/router'
-import { useState, useEffect } from 'react'
-import { Spin } from 'antd'
-import '../styles/globals.css'
-import 'flatpickr/dist/themes/material_green.css'
-import 'antd/dist/antd.css'
+import Router from "next/router";
+import { useState, useEffect } from "react";
+import { Spin } from "antd";
+import "../styles/globals.css";
+import "flatpickr/dist/themes/material_green.css";
+import "antd/dist/antd.css";
+import { Analytics } from "@vercel/analytics/react";
 
 function MyApp({ Component, pageProps }) {
   const [loading, setLoading] = useState(false);
@@ -26,11 +27,16 @@ function MyApp({ Component, pageProps }) {
     };
   }, []);
 
-  if(loading) { 
-    return <Spin size="large" />
+  if (loading) {
+    return <Spin size="large" />;
   }
 
-  return <Component {...pageProps} />
+  return (
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
+  );
 }
 
-export default MyApp
+export default MyApp;

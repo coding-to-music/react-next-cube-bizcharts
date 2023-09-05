@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@cubejs-client/react": "^0.33.47",
+    "@vercel/analytics": "^1.0.2",
     "antd": "^5.8.6",
     "bizcharts": "^4.1.22",
     "next": "13.4.19",
