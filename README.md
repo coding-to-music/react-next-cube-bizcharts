@@ -2,6 +2,17 @@
 
 # 🚀 Building a Next.js Dashboard with Dynamic Charts and SSR 🚀
 
+### Status - Not set up because Cube does not have a free plan, Minimum commit: $99/mo
+
+```java
+Starter
+$0.10
+
+per
+Cube Compute Unit
+Minimum commit: $99/mo
+```
+
 https://github.com/coding-to-music/react-next-cube-bizcharts
 
 https://react-next-cube-bizcharts.vercel.app
