@@ -6,11 +6,11 @@ https://github.com/coding-to-music/react-next-cube-bizcharts
 
 https://react-next-cube-bizcharts.vercel.app
 
-From / By https://github.com/danstanhope/react-compound-interest-calculator
+From / By https://github.com/Shadid12/next-with-cube
 
-https://dev.to/danstanhope/compound-interest-calculator-using-chartjs-react-1lac
+https://dev.to/shadid12/building-a-nextjs-dashboard-with-dynamic-charts-and-ssr-1i07
 
-https://compoundinterest.cloud/
+https://mydashboard-ten.vercel.app
 
 <!-- <div style="text-align:center;">
   <img src="/images/chakra.jpg" alt="Image" />
