@@ -2,7 +2,7 @@
 
 # 🚀 Building a Next.js Dashboard with Dynamic Charts and SSR 🚀
 
-### Status - Not set up because Cube does not have a free plan, Minimum commit: $99/mo
+### Status - Build errors and stopped work: Not set up because Cube does not have a free plan, Minimum commit: $99/mo.
 
 ```java
 Starter
@@ -11,6 +11,16 @@ $0.10
 per
 Cube Compute Unit
 Minimum commit: $99/mo
+```
+
+Build Errors:
+
+```java
+Server Error
+
+Error: require() of ES Module /react-next-cube-bizcharts/node_modules/d3-interpolate/src/index.js from /react-next-cube-bizcharts/node_modules/@antv/g-base/lib/animate/timeline.js not supported.
+
+Instead change the require of index.js in /react-next-cube-bizcharts/node_modules/@antv/g-base/lib/animate/timeline.js to a dynamic import() which is available in all CommonJS modules.
 ```
 
 https://github.com/coding-to-music/react-next-cube-bizcharts
